@@ -1,0 +1,1 @@
+INSERT INTO `game_tele` VALUES (1870, -477.316, 576.838, 220.353, 3.15488, 1642, 'zuldazar');
